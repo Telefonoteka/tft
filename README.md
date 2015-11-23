@@ -1,2 +1,0 @@
-# tft
-and tft
